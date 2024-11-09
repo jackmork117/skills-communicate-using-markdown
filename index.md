@@ -1,3 +1,4 @@
 # This is my github page! holy cow!
-## amazing!
+## amazing! Look at this cat.
 
+![Image of Dope Yaktocat](https://octodex.github.com/images/yaktocat.png)
