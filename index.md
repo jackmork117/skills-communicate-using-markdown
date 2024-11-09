@@ -6,3 +6,9 @@
 ``` javascript
 var myVar = "Let's get this bread!";
 ```
+
+
+- [x] Header
+- [x] image of cat
+- [x] basic code example
+- [ ] make 1 million dollars
